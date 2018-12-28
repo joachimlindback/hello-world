@@ -1,2 +1,2 @@
 # hello-world
-Free
+Hans-Joachim Lindback, Kalix, Sweden
